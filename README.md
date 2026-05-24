@@ -1,6 +1,6 @@
 Rewrite of SCXPM on AngelScript with some improvements
 
-To install the SCXPM plugin on your server, first download a clone of this repository
+To install the SCXPM plugin on your server, first download a clone of this repository <a href="https://github.com/Limeony/scxpm_as/archive/refs/heads/master.zip">HERE</a> 
 
 Copy the file scxpm_as.as to svencoop/scripts/plugins
 
@@ -20,7 +20,7 @@ Get inside this new directory and create these additional folders:
 data ~ Save data is stored here
 logs ~ All events that occur within SCXPM will be logged here
 
-Some code snippets taken from <a href="https://github.com/JulianR0/CLevels">CLevels</a></p>
+Some code snippets taken from <a href="https://github.com/JulianR0/CLevels">CLevels</a>
 
 Original Author : <a href="https://forums.alliedmods.net/member.php?u=18135">Silencer</a>
 

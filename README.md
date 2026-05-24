@@ -26,4 +26,4 @@ Obviously used original code of SCXPM to make it practically identical to origin
 
 Original Author : <a href="https://forums.alliedmods.net/member.php?u=18135">Silencer</a>
 
-<a href="https://forums.alliedmods.net/showthread.php?t=44168">Original Mod</a>
+<a href="https://forums.alliedmods.net/showthread.php?t=44168">Original Plugin</a>

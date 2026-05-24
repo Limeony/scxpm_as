@@ -13,12 +13,14 @@ Now, add the following entry to your default_plugins.txt located in svencoop:
 	}
 
 The next step is to create the folders that will be used by SCXPM to store and save players data
+
 Go to svencoop/scripts/plugins/store and make a new folder named scxpm_as
 
 Get inside this new directory and create these additional folders:
 
-data ~ Save data is stored here
-logs ~ All events that occur within SCXPM will be logged here
+	data ~ Save data is stored here
+
+	logs ~ All events that occur within SCXPM will be logged here
 
 Some code snippets taken from <a href="https://github.com/JulianR0/CLevels">CLevels</a>
 

@@ -1,4 +1,5 @@
 Rewrite of SCXPM on AngelScript with some improvements
+
 To install the SCXPM plugin on your server, first download a clone of this repository
 
 Copy the file scxpm_as.as to svencoop/scripts/plugins

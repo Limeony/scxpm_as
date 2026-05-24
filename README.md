@@ -1,4 +1,4 @@
-Rewrite of SCXPM on AngelScript with some improvements
+Rewrite of SCXPM (Sven-Coop Experience Mod) on AngelScript with some improvements
 
 To install the SCXPM plugin on your server, first download a clone of this repository <a href="https://github.com/Limeony/scxpm_as/archive/refs/heads/master.zip">HERE</a> 
 

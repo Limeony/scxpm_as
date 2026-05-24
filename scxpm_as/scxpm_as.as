@@ -54,7 +54,7 @@ const int MAX_DODGE = 90;
 const int MAX_MEDALS = 15;
 const int MAX_LEVEL = 1800;
 const int MAX_XP = 11500000;
-const int FRAGS_PER_MEDAL = 100000;
+const int FRAGS_PER_MEDAL = 50000;
 const int SAVE_MIN_LEVEL = 1;
 const int SAVE_MIN_MEDALS = 1;
 

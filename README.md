@@ -22,6 +22,8 @@ logs ~ All events that occur within SCXPM will be logged here
 
 Some code snippets taken from <a href="https://github.com/JulianR0/CLevels">CLevels</a>
 
+Obviously used original code of SCXPM to make it practically identical to original plugin
+
 Original Author : <a href="https://forums.alliedmods.net/member.php?u=18135">Silencer</a>
 
 <a href="https://forums.alliedmods.net/showthread.php?t=44168">Original Mod</a>

@@ -22,6 +22,22 @@ Get inside this new directory and create these additional folders:
 
 	logs ~ All events that occur within SCXPM will be logged here
 
+Available commands:
+
+	scxpm_xpgain <value> - Set XP multiplier
+	addmedal <Name> - Give a medal to player
+	removemedal <Name> - Remove a medal from player
+	setlvl <Name> <Amount> - Set player level (1-1800)
+	godmode <Name> - Toggle God Mode on player
+	noclipmode <Name> - Toggle Noclip Mode on player
+	setmax <Name> - Set player to max level (1800) and max medals (15)
+	showfrags [Name] - Show player's total frags
+	xp_help - Show this help
+	forceload <Name> - Force load player data from vault
+	forceloadall - Force load best data from both slots for ALL players
+	forcesaveall - Force save ALL players data to vault
+	checkslots <Name> - Check player data in both slots
+
 Some code snippets taken from <a href="https://github.com/JulianR0/CLevels">CLevels</a>
 
 Obviously used original code of SCXPM to make it practically identical to original plugin

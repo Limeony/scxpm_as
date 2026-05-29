@@ -40,7 +40,7 @@ Available commands:
 	forcesaveall - Force save ALL players data to vault
 	checkslots <Name> - Check player data in both slots
 
-Some code snippets taken from <a href="https://github.com/JulianR0/CLevels">CLevels</a>
+Some code snippets taken from <a href="https://github.com/JulianR0/CLevels">CLevels</a> (v4)
 
 Obviously used original code of SCXPM to make it practically identical to original plugin
 
